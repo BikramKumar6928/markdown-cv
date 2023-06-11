@@ -30,21 +30,18 @@ Skilled in Java development, with prior experience in building robust solutions 
 
 ### B.Tech in Computer Science and Engineering (2015-2019)
   
-    Indian Institute of Technology, Dhanbad
-    
-    OGPA - 8.15.
+- Indian Institute of Technology, Dhanbad
+- OGPA - 8.15.
     
 ### Higher Secondary School Certificate Central Board of Secondary Education, 2015
 
-    DAV Public School, Gaya, Bihar
-
-    Percentage - 93%
+- DAV Public School, Gaya, Bihar
+- Percentage - 93%
 
 ### Secondary School Certificate - Indian Certicate of Secondary Education, 2013
 
-    Assembly of God Church School, Sodepur, West Bengal
-
-    Percentage:- 95.2%.
+- Assembly of God Church School, Sodepur, West Bengal
+- Percentage:- 95.2%.
 
 ## Internship and training
 
@@ -56,27 +53,28 @@ Skilled in Java development, with prior experience in building robust solutions 
   
 ### Expense Management Application
 
-    Implemented a REST based Expense management system containing intricate ways to define an income/expense.
+- Implemented a REST based Expense management system containing intricate ways to define an income/expense.
 
 ### Utilities Application
   
-    Implemented a REST based application for maintaining To Do list and Workout planning based on different users.
+- Implemented a REST based application for maintaining To Do list and Workout planning based on different users.
 
 ## Technical Skills
 
 ### Proficient
 
-Ruby, Ruby on Rails, Redis, Postgres, Docker, Postman, Cassandra, Kubernetes, Helm, Maven, Git, HTML, CSS.
+- Ruby, Ruby on Rails, Redis, Postgres, Docker, Postman, Cassandra, Kubernetes, Helm, Maven, Git, HTML, CSS.
 
 ### Intermediate
 
-Java (8), Spring Boot, RabbitMQ, JanusGraph, Swagger API, Bash, Jenkins, Python.
+- Java (8), Spring Boot, RabbitMQ, JanusGraph, Swagger API, Bash, Jenkins, Python.
 
 ### Beginner
 
-Javascript
+- Javascript
 
 ## Interests
+
 - Playing computer games.
 - Coding.
 
