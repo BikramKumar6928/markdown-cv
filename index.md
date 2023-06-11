@@ -1,91 +1,87 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Bikram Kumar's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bikram Kumar
+Experienced Software Developer with a strong background in Ruby, adept at deploying applications on Kubernetes and Docker.
+
+Skilled in Java development, with prior experience in building robust solutions utilizing Java frameworks.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+    [bk6928@gmail.com](mailto:bk6928@gmail.com)
+    [Github](https://github.com/BikramKumar6928)
+    [LinkedIn](https://www.linkedin.com/in/bikram-kumar-94b37ab1)
+    +91 9473 347 457
 </div>
 
 
-## Currently
+# Work Experience
 
-Standing on the shoulders of giants
+## Software Engineer - Amdocs
 
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Maintained and added features to product micro services as required, written in Java.
+- Worked with a callback mechanism which executes code when a message is received in RabbitMQ.
+- Created a basic model for new micro services to be written
+- Created process for the CI/CD tests used in build checks.
+- Automated parts of job that are done regularly to reduce man-hours and increased accessibility.
+- Used Virtual Machines to have whole workflow on cloud and used terminal for most of the tasks.
 
 
-## Education
+# Education:-
+## B.Tech in Computer Science and Engineering (2015-2019)
+  
+    Indian Institute of Technology, Dhanbad
+    
+    OGPA - 8.15.
+    
+## Higher Secondary School Certificate Central Board of Secondary Education, 2015
 
-`1654-1660`
-__The King's School, Grantham.__
+    DAV Public School, Gaya, Bihar
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+    Percentage - 93%
 
-- Sizar
+## Secondary School Certificate - Indian Certicate of Secondary Education, 2013
 
-`1667 - death`
-__Trinity College, Cambridge__
+    Assembly of God Church School, Sodepur, West Bengal
 
-- Fellow
+    Percentage:- 95.2%.
 
+# Internship and training
 
+## Indian Institute of Technology, Dhanbad - Intern, 2018
+  - Created modules on PHP framework for managing sports inventory and automating the inventory refilling process.
+  - Created module to manage and track the grants coming to professors from different institutions for performing research and distribution of funds among the researchers.
 
-## Awards
+# Projects
+  
+## Expense Management Application
 
-`2012`
-President, *Royal Society*, London, UK
+    Implemented a REST based Expense management system containing intricate ways to define an income/expense.
 
-Associate, *French Academy of Science*, Paris, France
+## Utilities Application
+  
+    Implemented a REST based application for maintaining To Do list and Workout planning based on different users.
 
+# Technical Skills
 
+## Proficient
 
-## Publications
+Ruby, Ruby on Rails, Redis, Postgres, Docker, Postman, Cassandra, Kubernetes, Helm, Maven, Git, HTML, CSS.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Intermediate
 
-### Journals
+Java (8), Spring Boot, RabbitMQ, JanusGraph, Swagger API, Bash, Jenkins, Python.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Beginner
 
-`1669`
-Lectiones opticæ.
+Javascript
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+# Interests
+- Playing computer games.
+- Coding.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2023 -->
 
 
