@@ -3,9 +3,7 @@ layout: cv
 title: Bikram Kumar's CV
 ---
 # Bikram Kumar
-Experienced Software Developer with a strong background in Ruby, adept at deploying applications on Kubernetes and Docker.
-
-Skilled in Java development, with prior experience in building robust solutions utilizing Java frameworks.
+Experienced Software Developer with a strong background in Ruby, adept at deploying applications on Kubernetes and Docker. Skilled in Java development, with prior experience in building robust solutions utilizing Java frameworks.
 
 <div id="webaddress">
     <a href="mailto:bk6928@gmail.com">bk6928@gmail.com</a>
