@@ -22,6 +22,7 @@ Experienced Software Developer with a strong background in Ruby, adept at deploy
 - Fixed bugs that led to precise tax calculations for Zomato.
 - Proposed and led the creation of pipelines and canary deployments.
 - Helped in creating a framework for async web requests using kafka and custom DSL.
+- Added alerts and logging that increased visibility, helping solve race conditions and duplicate order creation.
 
 ### Software Engineer - Amdocs (2019-2022)
 
